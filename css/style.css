@@ -8,9 +8,12 @@ header {
   height: 100vh;
 }
 
-.nav-item .nav-link,
-.nav-item .nav-link.active {
+.nav-item .nav-link {
   color: #fff;
+}
+
+.nav-item .nav-link.active {
+  color: rgb(131, 177, 238);
 }
 
 .nav-item .nav-link:hover {
